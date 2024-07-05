@@ -49,6 +49,6 @@ function reiniciar(){
     limparCampo("quantidade");
     limparCampo("de");
     limparCampo("ate");
-    exibirMensagemNaTela("mensagem_resultado", "Números sorteados:  nenhum até agora");
+    exibirMensagemNaTela("mensagem_resultado", "Números sorteados: nenhum até agora");
 }
 
