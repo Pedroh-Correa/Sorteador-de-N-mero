@@ -39,8 +39,7 @@ function sortear() {
 }
 
 function limparCampo(id){
-    id = document.getElementById(id);
-    id.value = " ";
+    document.getElementById(id).value = " ";
 }
 
 function reiniciar(){
